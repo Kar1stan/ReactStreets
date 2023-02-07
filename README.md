@@ -1,6 +1,6 @@
 # ReactStreets
 ***
-React project - show list some of world streets.Also contain user list.
+React project - show list some of world streets.Also contains user list.
 
 ## 💻 Pre-requisites
 
